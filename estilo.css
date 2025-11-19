@@ -21,7 +21,7 @@
 }
 
 .caixa2 {
-    background-color: aqua;
+    background-color: black;
     
     border-style: solid;
     padding: 80px;
@@ -31,11 +31,11 @@
 
 .sasuke {
     display: inline-table;
-    background-color: blue;
+    background-color: rgb(255, 0, 85);
     width: 200px;
     height: 250px;
     border-style: solid;
-    border-radius: 50%;
+    border-radius: 0%;
     margin: 15px;
     text-align: center;  
     
