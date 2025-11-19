@@ -11,7 +11,19 @@
 .bolinha {
     display: inline-table;
     background-color: blue;
-    width: 250px;
+    width: 200px;
+    height: 250px;
+    border-style: solid;
+    border-radius: 50%;
+    margin: 15px;
+    text-align: center;  
+    
+}
+
+.sasuke {
+    display: inline-table;
+    background-color: blue;
+    width: 200px;
     height: 250px;
     border-style: solid;
     border-radius: 50%;
