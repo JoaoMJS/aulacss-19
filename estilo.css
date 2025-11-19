@@ -20,6 +20,15 @@
     
 }
 
+.caixa2 {
+    background-color: aqua;
+    
+    border-style: solid;
+    padding: 80px;
+    text-align: center;
+
+}
+
 .sasuke {
     display: inline-table;
     background-color: blue;
